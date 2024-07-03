@@ -1,2 +1,2 @@
 # DesignPatternsAndSolidPrinciplesInPython
-This repo contains design patterns and solid principle in Python.
+This repository contains design patterns and solid principles in Python.
